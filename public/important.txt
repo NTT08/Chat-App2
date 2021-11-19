@@ -1,0 +1,15 @@
+                <div class="message my-message">
+                    <div>
+                        <div class="name">You</div>
+                        <div class="text">Hi</div>
+                    </div>
+                </div>
+                <div class="update">
+                    Abc has joined the conversation
+                </div>
+                <div class="message other-message">
+                    <div>
+                        <div class="name">Abc</div>
+                        <div class="text">Hi</div>
+                    </div>
+                </div>
